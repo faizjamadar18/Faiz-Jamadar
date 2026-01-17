@@ -1,25 +1,29 @@
-<h1 align="center">Kartik Labhshetwar</h1>
+<h1 align="center">Faiz Jamadar</h1>
 
 <h3 align="center">AI engineer & Software developer currently building from zero.</h3>
 
 <p align="center">
-  <a href="https://x.com/code_kartik" target="_blank">twitter</a> •
-  <a href="https://www.linkedin.com/in/kartikcode/" target="_blank">linkedin</a> •
-  <a href="https://github.com/KartikLabhshetwar" target="_blank">github</a> •
-  <a href="mailto:kartik.labhshetwar@gmail.com" target="_blank">email</a>
+  <a href="https://faiz-porfolio.vercel.app" target="_blank">PortFolio</a> •
+  <a href="https://www.linkedin.com/in/faiz-jamadar-2859732a4" target="_blank">linkedin</a> •
+  <a href="https://github.com/faizjamadar18" target="_blank">github</a> •
+  <a href="mailto:faizjamadar18@gmail.com" target="_blank">email</a>
 </p>
 
 ---
 
 #### 🔷 my goto stack
-- typescript · javascript · python · go · react · next.js · node.js · express · mongoDB · postgresql · prisma · tailwind · langchain · langgraph · pytorch
+- javascript · python · react · next.js · node.js · express · mongoDB · Mysql · prisma · tailwind · langchain · langgraph · pytorch
   
 
 #### 🔷 my latest projects
 
 Exploring the codebase to understand BetterShot's features and functionality.
 
-- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source screenshot tool for macOS, alternative to CleanShot X. Features multiple capture modes (region, fullscreen, window) with global hotkeys, image editing with curated backgrounds (wallpapers, Mac assets, mesh patterns), custom backgrounds (solid colors, gradients, transparent checkerboard), visual effects (adjustable blur and noise), border radius control, high-quality export, clipboard integration, custom save directory, system tray integration, and native performance. Built with Tauri 2, React 19, TypeScript, Tailwind CSS 4, Vite, and Rust (xcap for screenshot capture, arboard for clipboard operations, image for processing).
+- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — – Implemented real-time messaging using Socket.io, achieving instant synchronization across devices.
+– Engineered low-latency 1:1 video calling capabilities via WebRTC, with seamless HD connections.
+– Developed a robust media sharing system supporting images, videos, and large files, optimizing upload speeds by
+30% through efficient buffer handling and cloud storage integration.
+– Secured user sessions with JWT-based authentication and HTTP-only cookies.
 
 - **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place. Features custom usernames, link management with drag-and-drop reordering, analytics (clicks, referrers, devices), Google OAuth, avatar uploads, and responsive design. Built with Next.js 16, React 19, Express.js, PostgreSQL, Prisma ORM, and Better Auth for authentication and session management.
 
